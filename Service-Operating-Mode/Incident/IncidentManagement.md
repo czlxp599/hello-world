@@ -5,7 +5,7 @@
 # Incident Management
 The first goal of the incident management process is to restore the service to  normal operation as quickly as possible and to minimize the impact on business operations, thus ensuring that the best possible levels of service quality and availability are maintained. 'Normal service operation' is defined here as service operation within the Service Level Agreement (SLA).
 
-*Team Name* will serve as a single support team made up of Planning, Engineering, and Operations that provides support for the <service/product name>. The support group for this team, within the incident management system, is *support group name*.  
+*TEAM NAME* will serve as a single support team made up of Planning, Engineering, and Operations that provides support for the <service/product name>. The support group for this team, within the incident management system, is *support group name*.  
 
 ## Table of Contents
 [Reporting Incidents](#reporting-incidents) 
