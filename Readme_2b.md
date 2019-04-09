@@ -63,8 +63,6 @@ Below is a list of Services that underpin or are bundled with the `service name`
 |Service 1||
 |Service n||
 
-Version information Option 2 (table)
-
 ***
 |Date Revised|Version|Description|
 |:---:|:---:|---|
