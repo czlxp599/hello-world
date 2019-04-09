@@ -63,8 +63,6 @@ Below is a list of Services that underpin or are bundled with the `service name`
 |Service 1||
 |Service n||
 
-## Version information Option 1
-
 ***
 02-Apr-19 &nbsp; Version 0.1 &nbsp; Change Products/Tools section to table format, Added new section
 
