@@ -63,12 +63,9 @@ Below is a list of Services that underpin or are bundled with the `service name`
 |Service 1||
 |Service n||
 
-***
-2019-Apr-02 &nbsp;&nbsp;&nbsp; Version 0.1
-
-or 
+Version information Option 2 (table)
 
 ***
 |Date Revised|Version|
 |:---:|:---:|
-|19-Apr-02|version 0.1|
+|02-Apr-19|Version 0.1|
