@@ -3,7 +3,7 @@
 `Highlighted text is for reference only. Remove highlights prior to committing your final update.`
 
 ## Service Overview
-`This Service Overview is a brief narrative of what your service provides to consumers of the service. Generally this is a short paragraph and should answer the following the questions:`
+`This Service Overview is a brief narrative of what your service provides to consumers of the service. Generally this is a short paragraph and should answer the following the questions::`
 
 `1. Who is the intended customer`<br>
 `2. What will this service allow the customer to do`
@@ -64,5 +64,7 @@ Below is a list of Services that underpin or are bundled with the `service name`
 |Service n||
 
 ***
-02-Apr-19 &nbsp; Version 0.1 &nbsp; Template updated: Changed Products/Tools section to table format, Added new section
+|Date Revised|Version|Description|
+|:---:|:---:|---|
+|02-Apr-19|Version 0.1|Tempate update(s): Changed Products/Tools section to table format, Changed Underpinning Services to table format, Added Availability section|
 
