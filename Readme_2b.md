@@ -3,7 +3,7 @@
 `Highlighted text is for reference only. Remove highlights prior to committing your final update.`
 
 ## Service Overview
-`This Service Overview is a brief narrative of what your service provides to consumers of the service. Generally this is a short paragraph and should answer the following the questions:`
+`This Service Overview is a brief narrative of what your service provides to consumers of the service. Generally this is a short paragraph and should answer the following the questions::`
 
 `1. Who is the intended customer`<br>
 `2. What will this service allow the customer to do`
