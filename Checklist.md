@@ -1,6 +1,11 @@
 # Check List
 
-- [ ] Update the README.md file
+- [ ] Identify the template file updated
+  - [ ] SOM Home page - README.md
+  - [ ] RequestFulfillment.md
+  - [ ] IncidentManagement.md
+  - [ ] ChangeManagement.md
+  - [ ] EventManagement.md
   - [ ] New functionality has been appropriately documented in the README.md
   - [ ] Update Installation Steps in the README.md files. Ensure to call out explicit deletes that occurred, and remove any previous callouts which no longer apply
   - [ ] Test Plans should be filled out to capture a few use cases and acceptance criteria
