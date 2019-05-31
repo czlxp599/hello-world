@@ -7,4 +7,6 @@ Here is my sampe image.
 
 ![SVG](https://github.com/czlxp599/hello-world/blob/test-convert/RetestSVG.svg)
 <br>
+[SVG file](https://github.com/czlxp599/hello-world/blob/test-convert/RetestSVG.svg)
+<br>
 End of test 2
